@@ -1,0 +1,27 @@
+{
+  "name": "7vv1n5",
+  "version": "1.0.0",
+  "description": "## Places",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/boids1.git"
+  },
+  "author": "revdancatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revdancatt/boids1/issues"
+  },
+  "homepage": "https://github.com/revdancatt/boids1#readme",
+  "keywords": [
+    "revdancatt",
+    "genart",
+    "genartclub"
+  ]
+}
